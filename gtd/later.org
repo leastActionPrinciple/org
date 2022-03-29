@@ -1,0 +1,7 @@
+* LATER [#D] 物质转生
+  :PROPERTIES:
+  :ID:       8a2c0b12-a80d-4a64-818c-c2ad792ba993
+  :END:
+  :LOGBOOK:
+  CLOCK: [2022-03-29 二 18:41]--[2022-03-29 二 18:41] =>  0:00
+  :END:

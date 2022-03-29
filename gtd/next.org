@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       3fec5c95-514e-4219-8459-4a7d22d6686a
+:END:
+* INBOX [#D] 洗澡
+  SCHEDULED: <2022-04-01 五 +3d>
+  :PROPERTIES:
+  :LAST_REPEAT: [2022-03-29 二 21:02]
+  :ID:       8091d704-ec12-4488-93f8-40a7c40917bf
+  :END:
+  - State "DONE"       from "NEXT"       [2022-03-29 二 21:02]
+  :LOGBOOK:
+  CLOCK: [2022-03-29 二 20:00]--[2022-03-29 二 21:01] =>  1:01
+  :END:

@@ -1,0 +1,12 @@
+* Projects
+** INBOX [#D] 学Haskell                                   :project:@computer:
+   [[~/book/haskell/][Haskell书籍]]
+* Notes
+** TODO
+   =C-c C-t= 
+* Ideals
+* Tasks
+  :PROPERTIES:
+  :ID:       bbc0dd18-5fe4-418f-b3fd-dd372ddfc6e9
+  :END:
+* Exercises

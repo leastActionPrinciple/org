@@ -1,0 +1,16 @@
+
+Archived entries from file /home/ttt/orgmode/gtd/later.org
+
+* 2022
+
+** 2022-03 三月
+
+*** 2022-03-29 星期二
+**** Archive from later.org
+***** LATER [#D] emacs录制宏
+      :PROPERTIES:
+      :ARCHIVE_TIME: 2022-03-29 二 16:29
+      :ARCHIVE_FILE: ~/orgmode/gtd/later.org
+      :ARCHIVE_TODO: LATER
+      :ARCHIVE_CATEGORY: later
+      :END:

@@ -1,0 +1,2 @@
+* INBOX [#D] 学orgmode                                    :project:@computer:
+  [[https://orgmode.org/manual/index.html][the org manual]]
