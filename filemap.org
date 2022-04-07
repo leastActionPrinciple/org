@@ -1,0 +1,16 @@
+
+* gtd
+**  [[~/orgmode/inbox.org][捕获]]
+** 日程管理
+*** [[~/orgmode/gtd/next.org][next]]
+*** [[~/orgmode/gtd/project.org][project]]   
+* 资料
+** 
+* 笔记
+* 配置
+** emacs
+   :PROPERTIES:
+   :ID:       0104ad09-f512-4e45-886d-c1b7b40ad883
+   :END:
+   - [[~/.emacs.d/init.el][init]]
+   - [[~/.emacs.d/lisp/init-package.el][init-package]]

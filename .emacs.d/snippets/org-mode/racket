@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: racket
+# key: racket
+# --
+#+BEGIN_SRC racket
+#+END_SRC

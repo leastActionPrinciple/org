@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tasks
+# key: tasks
+# --
+#+LATEX_HEADER: \usepackage{tasks}

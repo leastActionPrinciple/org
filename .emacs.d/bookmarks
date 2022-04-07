@@ -1,0 +1,20 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-capture-last-stored-marker"
+ (filename . "~/orgmode/gtd/inbox.org")
+ (front-context-string . "** INBOX 1\n Time")
+ (rear-context-string . "home/ttt/.emacs\n")
+ (position . 344))
+("org-refile-last-stored"
+ (filename . "~/orgmode/gtd/done.org")
+ (front-context-string . "* DONE org-roam入")
+ (rear-context-string . ">  0:03\n  :END:\n")
+ (position . 1745))
+("org-capture-last-stored"
+ (filename . "~/orgmode/化学.org")
+ (front-context-string)
+ (rear-context-string . "ND:\n#+title: 化学\n")
+ (position . 80))
+)

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: julia
+# key: julia
+# --
+#+BEGIN_SRC julia-vterm
+#+END_SRC

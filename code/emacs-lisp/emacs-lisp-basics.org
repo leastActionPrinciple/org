@@ -1,0 +1,23 @@
+* Arithmetic
+
+#+begin_src emacs-lisp
+  (+ 4 5 1)
+#+end_src
+
+#+RESULTS:
+: 10
+
+#+begin_src emacs-lisp
+  (- 9 2)
+#+end_src
+
+#+RESULTS:
+: 7
+
+#+begin_src emacs-lisp
+  (- 9 2 3)
+#+end_src
+
+#+RESULTS:
+: 4
+

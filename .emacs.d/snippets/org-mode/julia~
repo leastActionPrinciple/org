@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: julia
+# key: julia
+# --
+#+BEGIN_SCR julia
+#+END_SCR

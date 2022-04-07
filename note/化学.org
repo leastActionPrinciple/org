@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       98baa1fe-c33a-4546-8a5a-29e4696a90d4
+:END:
+#+title: 化学
+
+[[id:0d9d3bac-2d37-4484-afce-6073a7024134][物质的组成]]
